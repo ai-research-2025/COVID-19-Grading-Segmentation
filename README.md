@@ -12,6 +12,10 @@
 
 ```
 COVID-19-Grading-System/
+├── Notebooks/
+│   ├── Classification_Model.ipynb           # Contains the code for training and inference of classification model
+│   └── Segmentation_Model.ipynb           # Contains the code for training and inference of segmentation model
+├── volumetric_analysis.py          # Contains the code for volumetric analysis
 ├── train_classification.py          # Classification model training script
 ├── classification_model_inference.py      # Classification model inference script
 ├── train_segmentation.py   # Segmentation model training script
