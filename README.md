@@ -44,6 +44,7 @@ pip install tensorflow torch torchvision opencv-python pillow scikit-learn panda
 ### 2. Dataset Preparation
 - **Classification Dataset**:  
   Download the [COVID-CT Dataset](https://www.dropbox.com/scl/fi/i4xntov2doyebjy9pos4j/dataset.zip?dl=0&e=1&rlkey=ld3vegd1ofnpupoupnia0nex2&st=nmw8a3zt) and organize into `data/classification/`.
+  Download the [JLDS-2024 Dataset](https://www.dropbox.com/scl/fi/hdjiytlxn7kgujkazdf8c/JLDS-2024.zip?rlkey=our57xic54jxhr1g5xb2eqnh1&st=nvfrer4w&dl=0) and organize into `data/classification/`.
 - **Segmentation Dataset**:  
   Use the [COVID-19 CT Segmentation Dataset](http://medicalsegmentation.com/covid19/) and organize into `data/segmentation/images/` and `data/segmentation/masks/`.
 
